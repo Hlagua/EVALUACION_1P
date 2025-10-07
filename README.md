@@ -252,7 +252,40 @@ https://github.com/Hlagua/EVALUACION_1P/pull/2
 
 <!-- Escribe aquí tu respuesta completa a la Pregunta 5 -->
 
+
 ---
+- El procedimiento completo:
+  - Cómo se crearon las ramas.
+
+![alt text](image-10.png)
+
+
+
+  - Cómo se generó y resolvió el conflicto.
+
+  ![alt text](image-11.png)
+
+se realizo el merge en vscode
+
+  - Cómo se realizó el merge hacia `develop`.
+
+![alt text](image-12.png)
+
+  - Cómo se eliminaron las ramas al finalizar.
+![alt text](image-13.png)
+
+
+- El enlace al pull request.
+https://github.com/Hlagua/EVALUACION_1P/pull/3
+
+
+- Una breve explicación de qué es un conflicto en Git y por qué ocurrió en este caso.
+Un conflicto en Git ocurre cuando dos ramas modifican la misma parte de un archivo y Git no puede decidir cuál conservar.
+En este caso, ambas ramas editaron archivoA.txt, lo que generó un conflicto que resolví manualmente combinando ambos contenidos.
+
+
+
+
 
 ## Pregunta 6 (2 puntos)
 
